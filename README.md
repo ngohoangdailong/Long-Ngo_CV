@@ -1,6 +1,6 @@
 # AltaCV, yet another LaTeX CV/Résumé class
 
-v1.2 (11 February 2020), by LianTze Lim (liantze@gmail.com)
+v1.2 (11 February 2020), by Long Ngo (ngohoangdailong@gmail.com)
 
 _Sample file with new paracol layout added on 2 February 2020_
 
